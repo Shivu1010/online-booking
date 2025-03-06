@@ -1,0 +1,12 @@
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\controller\BookingControllerTest.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\controller\InquiryControllerTest.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\controller\PropertyControllerTest.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\exception\GlobalExceptionHandlerTest.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\exception\ResourceNotFoundExceptionTest.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\PropertyManagementApplicationTests.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\repository\BookingRepositoryTest.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\repository\InquiryRepositoryTest.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\repository\PropertyRepositoryTest.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\service\BookingServiceTest.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\service\InquiryServiceTest.java
+D:\Java_Projects\online-booking\src\test\java\com\example\propertymanagement\service\PropertyServiceTest.java

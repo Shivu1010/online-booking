@@ -1,0 +1,16 @@
+com\example\propertymanagement\model\Property.class
+com\example\propertymanagement\repository\BookingRepository.class
+com\example\propertymanagement\model\Booking.class
+com\example\propertymanagement\controller\BookingController.class
+com\example\propertymanagement\repository\InquiryRepository.class
+com\example\propertymanagement\repository\PropertyRepository.class
+com\example\propertymanagement\PropertyManagementApplication.class
+com\example\propertymanagement\controller\PropertyController.class
+com\example\propertymanagement\exception\ErrorDetails.class
+com\example\propertymanagement\service\PropertyService.class
+com\example\propertymanagement\controller\InquiryController.class
+com\example\propertymanagement\service\BookingService.class
+com\example\propertymanagement\service\InquiryService.class
+com\example\propertymanagement\model\Inquiry.class
+com\example\propertymanagement\exception\ResourceNotFoundException.class
+com\example\propertymanagement\exception\GlobalExceptionHandler.class
